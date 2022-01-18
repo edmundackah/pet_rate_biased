@@ -86,3 +86,5 @@ ios/Runner/Base.lproj/Main.storyboard
 ios/Runner/Info.plist
 ios/Runner/Runner-Bridging-Header.h
 .gitattributes
+.flutter-plugins
+.flutter-plugins-dependencies
